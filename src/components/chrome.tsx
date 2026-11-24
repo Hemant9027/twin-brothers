@@ -360,7 +360,15 @@ export function Footer() {
               provider. No payments are taken and no real guest data is used.
             </p>
             <p className="font-sans text-[0.66rem] uppercase tracking-[0.18em] text-paper/45">
-              © {new Date().getFullYear()} · InfyCrest Solutions
+              © {new Date().getFullYear()} · Designed and developed by{" "}
+              <a
+                href="https://infycrestsolutions.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="transition-colors hover:text-paper"
+              >
+                InfyCrest Solutions
+              </a>
             </p>
           </div>
         </div>
