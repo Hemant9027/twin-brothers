@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <path id="s" d="M30 15.5C20.6 15.5 13 22.9 13 32.2c0 7.1 4.6 12.6 11.3 13.9-3.9-2.9-5.6-7.6-4.2-12.1 1.6-5.1 6.9-8.1 11.9-6.7 4.4 1.2 7.2 5.5 6.4 9.9"/>
+  </defs>
+  <rect width="64" height="64" rx="9" fill="#102D38"/>
+  <g stroke="#FFF9EF" stroke-width="3.4" stroke-linecap="round">
+    <use href="#s"/>
+    <use href="#s" transform="matrix(-1 0 0 1 64 0)"/>
+  </g>
+  <circle cx="25.5" cy="34.5" r="2.6" fill="#D87958"/>
+  <circle cx="38.5" cy="34.5" r="2.6" fill="#D87958"/>
+  <path d="M16 54.5h32" stroke="#1C8C91" stroke-width="2.6" stroke-linecap="round"/>
+</svg>
